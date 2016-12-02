@@ -3,6 +3,7 @@
 •	所用技术：
 •	前端 Android端、win桌面端Delphi、Web端HTML+JS+JSP
 •	后端：SQL Server数据库、Servlet、Python邮件推送
+##温馨提示：因为方便测试和新人理解，所有密码的传输和存储都是明文，请各位不要使用常用密码注册
 系统已经正常运行并开源，访问地址：http://tomxin.cn 
 						  github：https://github.com/tomxin7
 
